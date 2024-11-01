@@ -1,0 +1,1232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Social Deux\n"
+"POT-Creation-Date: 2014-04-11 00:45+0100\n"
+"PO-Revision-Date: 2014-04-11 00:45+0100\n"
+"Last-Translator: \n"
+"Language-Team: Olymp <info@olymproject.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-ultimate-social-deux-admin.php:132
+msgid "Basic Settings"
+msgstr "Основные настройки"
+
+#: admin/class-ultimate-social-deux-admin.php:136
+msgid "Style Settings"
+msgstr "Настройки оформления"
+
+#: admin/class-ultimate-social-deux-admin.php:140
+msgid "Mail Settings"
+msgstr "Настройки пересылки"
+
+#: admin/class-ultimate-social-deux-admin.php:144
+msgid "Placement Settings"
+msgstr "Настройки расположения кнопок"
+
+#: admin/class-ultimate-social-deux-admin.php:148
+msgid "Advanced Settings"
+msgstr "Дополнительные настройки всплывающих кнопок"
+
+#: admin/class-ultimate-social-deux-admin.php:152
+msgid "License Settings"
+msgstr "Настройки лицензии"
+
+#: admin/class-ultimate-social-deux-admin.php:166
+#: admin/class-ultimate-social-deux-admin.php:228
+#: admin/class-ultimate-social-deux-admin.php:229
+#: admin/class-ultimate-social-deux-admin.php:1370
+#: admin/class-ultimate-social-deux-admin.php:1377
+#: public/class-ultimate-social-deux-visual-composer.php:23
+#: public/class-ultimate-social-deux-visual-composer.php:160
+#: public/class-ultimate-social-deux-widget.php:44
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/class-ultimate-social-deux-admin.php:167
+#: admin/class-ultimate-social-deux-admin.php:235
+#: admin/class-ultimate-social-deux-admin.php:236
+#: admin/class-ultimate-social-deux-admin.php:1384
+#: admin/class-ultimate-social-deux-admin.php:1391
+#: public/class-ultimate-social-deux-visual-composer.php:31
+#: public/class-ultimate-social-deux-visual-composer.php:168
+#: public/class-ultimate-social-deux-widget.php:48
+msgid "Twitter"
+msgstr "Twitter"
+
+#: admin/class-ultimate-social-deux-admin.php:168
+#: admin/class-ultimate-social-deux-admin.php:249
+#: admin/class-ultimate-social-deux-admin.php:250
+#: admin/class-ultimate-social-deux-admin.php:1398
+#: admin/class-ultimate-social-deux-admin.php:1405
+#: public/class-ultimate-social-deux-widget.php:52
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: admin/class-ultimate-social-deux-admin.php:169
+#: admin/class-ultimate-social-deux-admin.php:242
+#: admin/class-ultimate-social-deux-admin.php:243
+#: admin/class-ultimate-social-deux-admin.php:1454
+#: admin/class-ultimate-social-deux-admin.php:1461
+#: public/class-ultimate-social-deux-visual-composer.php:47
+#: public/class-ultimate-social-deux-visual-composer.php:184
+#: public/class-ultimate-social-deux-widget.php:56
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: admin/class-ultimate-social-deux-admin.php:170
+#: admin/class-ultimate-social-deux-admin.php:256
+#: admin/class-ultimate-social-deux-admin.php:257
+#: admin/class-ultimate-social-deux-admin.php:1440
+#: admin/class-ultimate-social-deux-admin.php:1447
+#: public/class-ultimate-social-deux-visual-composer.php:55
+#: public/class-ultimate-social-deux-visual-composer.php:192
+#: public/class-ultimate-social-deux-widget.php:60
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: admin/class-ultimate-social-deux-admin.php:171
+#: admin/class-ultimate-social-deux-admin.php:270
+#: admin/class-ultimate-social-deux-admin.php:271
+#: admin/class-ultimate-social-deux-admin.php:1426
+#: admin/class-ultimate-social-deux-admin.php:1433
+#: public/class-ultimate-social-deux-widget.php:64
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: admin/class-ultimate-social-deux-admin.php:172
+#: admin/class-ultimate-social-deux-admin.php:263
+#: admin/class-ultimate-social-deux-admin.php:264
+#: admin/class-ultimate-social-deux-admin.php:1412
+#: admin/class-ultimate-social-deux-admin.php:1419
+#: public/class-ultimate-social-deux-visual-composer.php:71
+#: public/class-ultimate-social-deux-visual-composer.php:208
+#: public/class-ultimate-social-deux-widget.php:68
+msgid "Delicious"
+msgstr "Delicious"
+
+#: admin/class-ultimate-social-deux-admin.php:173
+#: admin/class-ultimate-social-deux-admin.php:277
+#: admin/class-ultimate-social-deux-admin.php:278
+#: admin/class-ultimate-social-deux-admin.php:1468
+#: admin/class-ultimate-social-deux-admin.php:1475
+#: public/class-ultimate-social-deux-visual-composer.php:79
+#: public/class-ultimate-social-deux-visual-composer.php:216
+#: public/class-ultimate-social-deux-widget.php:72
+msgid "Buffer"
+msgstr "Buffer"
+
+#: admin/class-ultimate-social-deux-admin.php:174
+#: admin/class-ultimate-social-deux-admin.php:284
+#: admin/class-ultimate-social-deux-admin.php:285
+#: admin/class-ultimate-social-deux-admin.php:1482
+#: admin/class-ultimate-social-deux-admin.php:1489
+#: public/class-ultimate-social-deux-visual-composer.php:87
+#: public/class-ultimate-social-deux-visual-composer.php:224
+#: public/class-ultimate-social-deux-widget.php:76
+msgid "Reddit"
+msgstr "Reddit"
+
+#: admin/class-ultimate-social-deux-admin.php:175
+#: admin/class-ultimate-social-deux-admin.php:291
+#: admin/class-ultimate-social-deux-admin.php:292
+#: admin/class-ultimate-social-deux-admin.php:1496
+#: admin/class-ultimate-social-deux-admin.php:1503
+#: public/class-ultimate-social-deux-visual-composer.php:95
+#: public/class-ultimate-social-deux-visual-composer.php:232
+#: public/class-ultimate-social-deux-widget.php:80
+msgid "VKontakte"
+msgstr "ВКонтакте"
+
+#: admin/class-ultimate-social-deux-admin.php:176
+#: admin/class-ultimate-social-deux-admin.php:298
+#: admin/class-ultimate-social-deux-admin.php:299
+#: public/class-ultimate-social-deux-visual-composer.php:103
+#: public/class-ultimate-social-deux-visual-composer.php:240
+#: public/class-ultimate-social-deux-widget.php:84
+msgid "Mail"
+msgstr "Почта"
+
+#: admin/class-ultimate-social-deux-admin.php:185
+msgid "Tweet via: @"
+msgstr "Твитнуть от имени: @ "
+
+#: admin/class-ultimate-social-deux-admin.php:186
+msgid "Write your Twitter username here to be mentioned in visitors tweets"
+msgstr "Укажите своё имя в Twitter, чтобы посетители упоминали Вас в твитах"
+
+#: admin/class-ultimate-social-deux-admin.php:191
+msgid "Default Pinterest Image"
+msgstr "Стандартная картинка Pinterest"
+
+#: admin/class-ultimate-social-deux-admin.php:192
+msgid ""
+"Image that is passed if a post have no images - if adding Open Graph tags "
+"this will be used as default image also"
+msgstr ""
+"Изображение используется, если запись не содержит картинку, а также при "
+"использовании меток Open Graph."
+
+#: admin/class-ultimate-social-deux-admin.php:198
+msgid "Total Shares Button Text"
+msgstr "Текст кнопки \"всего оправлено ссылок\""
+
+#: admin/class-ultimate-social-deux-admin.php:199
+msgid "The text you want for the total shares button"
+msgstr "Введите текст, который хотите видеть на кнопке"
+
+#: admin/class-ultimate-social-deux-admin.php:201
+#: public/class-ultimate-social-deux-public.php:190
+msgid "Total Shares"
+msgstr "Всего отправлено"
+
+#: admin/class-ultimate-social-deux-admin.php:205
+msgid "Add Open Graph tags"
+msgstr "Метки Open Graph"
+
+#: admin/class-ultimate-social-deux-admin.php:206
+msgid "This is used for some social networks to fetch data from your site"
+msgstr ""
+"Используются некоторыми соцсетями, чтобы распознать данные с Вашего сайта"
+
+#: admin/class-ultimate-social-deux-admin.php:216
+msgid "Custom CSS field"
+msgstr "Дополнительный код CSS"
+
+#: admin/class-ultimate-social-deux-admin.php:221
+msgid "Hover"
+msgstr "Наведение"
+
+#: admin/class-ultimate-social-deux-admin.php:221
+#: admin/class-ultimate-social-deux-admin.php:228
+#: admin/class-ultimate-social-deux-admin.php:235
+#: admin/class-ultimate-social-deux-admin.php:242
+#: admin/class-ultimate-social-deux-admin.php:249
+#: admin/class-ultimate-social-deux-admin.php:256
+#: admin/class-ultimate-social-deux-admin.php:263
+#: admin/class-ultimate-social-deux-admin.php:270
+#: admin/class-ultimate-social-deux-admin.php:277
+#: admin/class-ultimate-social-deux-admin.php:284
+#: admin/class-ultimate-social-deux-admin.php:291
+#: admin/class-ultimate-social-deux-admin.php:298
+msgid "Color"
+msgstr "(цвет)"
+
+#: admin/class-ultimate-social-deux-admin.php:222
+msgid "When hovering over a button the button changes to this color"
+msgstr "При наведении курсора на кнопку, она будет отображаться в этом цвете"
+
+#: admin/class-ultimate-social-deux-admin.php:229
+#: admin/class-ultimate-social-deux-admin.php:236
+#: admin/class-ultimate-social-deux-admin.php:243
+#: admin/class-ultimate-social-deux-admin.php:250
+#: admin/class-ultimate-social-deux-admin.php:257
+#: admin/class-ultimate-social-deux-admin.php:264
+#: admin/class-ultimate-social-deux-admin.php:271
+#: admin/class-ultimate-social-deux-admin.php:278
+#: admin/class-ultimate-social-deux-admin.php:285
+#: admin/class-ultimate-social-deux-admin.php:292
+#: admin/class-ultimate-social-deux-admin.php:299
+msgid "button color"
+msgstr "(цвет кнопки)"
+
+#: admin/class-ultimate-social-deux-admin.php:310
+msgid "Popup header:"
+msgstr "Заголовок окна: "
+
+#: admin/class-ultimate-social-deux-admin.php:311
+msgid "The heading of the mail popup"
+msgstr "Заголовок всплывающего окна для отправки почты"
+
+#: admin/class-ultimate-social-deux-admin.php:313
+#: public/class-ultimate-social-deux-public.php:875
+msgid "Share with your friends"
+msgstr "Поделиться с друзьями"
+
+#: admin/class-ultimate-social-deux-admin.php:317
+msgid "Mail From:"
+msgstr "Отправить с адреса: "
+
+#: admin/class-ultimate-social-deux-admin.php:318
+msgid "Email address that mail form will email from"
+msgstr "Email-адрес отправителя"
+
+#: admin/class-ultimate-social-deux-admin.php:324
+msgid "Mail From Name:"
+msgstr "Отправить от имени: "
+
+#: admin/class-ultimate-social-deux-admin.php:325
+msgid "Name that mail form will email with"
+msgstr "От чьего имени отправить ссылку"
+
+#: admin/class-ultimate-social-deux-admin.php:331
+msgid "Mail Subject:"
+msgstr "Тема email сообщения: "
+
+#: admin/class-ultimate-social-deux-admin.php:332
+msgid "Subject of email."
+msgstr "Тема email сообщения."
+
+#: admin/class-ultimate-social-deux-admin.php:332
+#: admin/class-ultimate-social-deux-admin.php:339
+msgid "Available tags is:"
+msgstr "Ключевые слова: "
+
+#: admin/class-ultimate-social-deux-admin.php:332
+#: admin/class-ultimate-social-deux-admin.php:339
+msgid "Outputs title of the post or page"
+msgstr "Выводит название записи или страницы"
+
+#: admin/class-ultimate-social-deux-admin.php:332
+#: admin/class-ultimate-social-deux-admin.php:339
+msgid "Outputs url of the post or page"
+msgstr "Выводит URL-адрес записи или страницы"
+
+#: admin/class-ultimate-social-deux-admin.php:332
+#: admin/class-ultimate-social-deux-admin.php:339
+msgid "Outputs the author of the post or page"
+msgstr "Выводит имя автора записи или страницы"
+
+#: admin/class-ultimate-social-deux-admin.php:332
+#: admin/class-ultimate-social-deux-admin.php:339
+msgid "Outputs the title of the Wordpress Install"
+msgstr "Выводит название сайта Wordpress"
+
+#: admin/class-ultimate-social-deux-admin.php:332
+#: admin/class-ultimate-social-deux-admin.php:339
+msgid "Outputs the url of the Wordpress Install"
+msgstr "Выводит URL-адрес сайта Wordpress"
+
+#: admin/class-ultimate-social-deux-admin.php:334
+#: public/class-ultimate-social-deux-public.php:943
+msgid "A visitor of"
+msgstr "Посетитель сайта "
+
+#: admin/class-ultimate-social-deux-admin.php:334
+#: public/class-ultimate-social-deux-public.php:943
+msgid "shared"
+msgstr " поделился "
+
+#: admin/class-ultimate-social-deux-admin.php:334
+#: public/class-ultimate-social-deux-public.php:943
+msgid "with you."
+msgstr " с Вами."
+
+#: admin/class-ultimate-social-deux-admin.php:338
+msgid "Mail Message:"
+msgstr "Текст email сообщения: "
+
+#: admin/class-ultimate-social-deux-admin.php:339
+msgid "Body of email."
+msgstr "Тело сообщения."
+
+#: admin/class-ultimate-social-deux-admin.php:341
+#: public/class-ultimate-social-deux-public.php:870
+msgid ""
+"I read this article and found it very interesting, thought it might be "
+"something for you. The article is called"
+msgstr ""
+"Я прочитал(а) эту статью, и она мне показалась интересной, поэтому решил(а) "
+"переслать ссылку Вам. Статья называется "
+
+#: admin/class-ultimate-social-deux-admin.php:341
+#: public/class-ultimate-social-deux-public.php:870
+msgid "and is located at"
+msgstr "и доступна по адресу: "
+
+#: admin/class-ultimate-social-deux-admin.php:345
+msgid "Send copy to admin?"
+msgstr "Отправить копию администратору?"
+
+#: admin/class-ultimate-social-deux-admin.php:349
+#: admin/class-ultimate-social-deux-admin.php:359
+#: public/class-ultimate-social-deux-visual-composer.php:26
+#: public/class-ultimate-social-deux-visual-composer.php:34
+#: public/class-ultimate-social-deux-visual-composer.php:42
+#: public/class-ultimate-social-deux-visual-composer.php:50
+#: public/class-ultimate-social-deux-visual-composer.php:58
+#: public/class-ultimate-social-deux-visual-composer.php:66
+#: public/class-ultimate-social-deux-visual-composer.php:74
+#: public/class-ultimate-social-deux-visual-composer.php:82
+#: public/class-ultimate-social-deux-visual-composer.php:90
+#: public/class-ultimate-social-deux-visual-composer.php:98
+#: public/class-ultimate-social-deux-visual-composer.php:106
+#: public/class-ultimate-social-deux-visual-composer.php:163
+#: public/class-ultimate-social-deux-visual-composer.php:171
+#: public/class-ultimate-social-deux-visual-composer.php:179
+#: public/class-ultimate-social-deux-visual-composer.php:187
+#: public/class-ultimate-social-deux-visual-composer.php:195
+#: public/class-ultimate-social-deux-visual-composer.php:203
+#: public/class-ultimate-social-deux-visual-composer.php:211
+#: public/class-ultimate-social-deux-visual-composer.php:219
+#: public/class-ultimate-social-deux-visual-composer.php:227
+#: public/class-ultimate-social-deux-visual-composer.php:235
+#: public/class-ultimate-social-deux-visual-composer.php:243
+msgid "Yes"
+msgstr "Да"
+
+#: admin/class-ultimate-social-deux-admin.php:350
+#: admin/class-ultimate-social-deux-admin.php:360
+#: public/class-ultimate-social-deux-visual-composer.php:114
+#: public/class-ultimate-social-deux-visual-composer.php:251
+msgid "No"
+msgstr "Нет"
+
+#: admin/class-ultimate-social-deux-admin.php:355
+msgid "Enable Captcha?"
+msgstr "Включить контрольный вопрос?"
+
+#: admin/class-ultimate-social-deux-admin.php:365
+msgid "Captcha Question"
+msgstr "Контрольный вопрос: "
+
+#: admin/class-ultimate-social-deux-admin.php:366
+msgid "Your captcha question"
+msgstr "Введите текст своего контрольного вопроса"
+
+#: admin/class-ultimate-social-deux-admin.php:368
+#: public/class-ultimate-social-deux-public.php:873
+msgid "What is the sum of 7 and 2?"
+msgstr "Сколько будет 7 плюс 2?"
+
+#: admin/class-ultimate-social-deux-admin.php:372
+msgid "Captcha Answer"
+msgstr "Ответ на вопрос: "
+
+#: admin/class-ultimate-social-deux-admin.php:373
+msgid "Your captcha answer"
+msgstr "Укажите правильный ответ на контрольный вопрос"
+
+#: admin/class-ultimate-social-deux-admin.php:379
+msgid "Try message"
+msgstr "В момент отправки: "
+
+#: admin/class-ultimate-social-deux-admin.php:380
+msgid "Before the message has been sent"
+msgstr "Текст выводимый до того момнета, когда сообщение будет отправлено"
+
+#: admin/class-ultimate-social-deux-admin.php:382
+#: public/class-ultimate-social-deux-public.php:157
+msgid "Trying to send email..."
+msgstr "Попытка отправить письмо ..."
+
+#: admin/class-ultimate-social-deux-admin.php:386
+msgid "Success message"
+msgstr "Подтверждение отправки: "
+
+#: admin/class-ultimate-social-deux-admin.php:387
+msgid "For successful sent email"
+msgstr "Введите текст подтверждения успешной отправки ссылки"
+
+#: admin/class-ultimate-social-deux-admin.php:389
+#: public/class-ultimate-social-deux-public.php:156
+msgid "Great work! Your message was sent."
+msgstr "Отлично! Ваша ссылка отправлена."
+
+#: admin/class-ultimate-social-deux-admin.php:401
+msgid "Floating"
+msgstr "Всплывающие"
+
+#: admin/class-ultimate-social-deux-admin.php:406
+#: admin/class-ultimate-social-deux-admin.php:461
+#: admin/class-ultimate-social-deux-admin.php:524
+#: admin/class-ultimate-social-deux-admin.php:588
+#: admin/class-ultimate-social-deux-admin.php:652
+#: admin/class-ultimate-social-deux-admin.php:715
+#: admin/class-ultimate-social-deux-admin.php:781
+#: admin/class-ultimate-social-deux-admin.php:848
+#: admin/class-ultimate-social-deux-admin.php:912
+#: admin/class-ultimate-social-deux-admin.php:976
+#: admin/class-ultimate-social-deux-admin.php:1040
+#: admin/class-ultimate-social-deux-admin.php:1104
+#: admin/class-ultimate-social-deux-admin.php:1168
+#: admin/class-ultimate-social-deux-admin.php:1238
+#: admin/class-ultimate-social-deux-admin.php:1309
+msgid "Buttons"
+msgstr "Кнопки:"
+
+#: admin/class-ultimate-social-deux-admin.php:420
+msgid "Hide on frontpage?"
+msgstr "Скрыть на титульной странице?"
+
+#: admin/class-ultimate-social-deux-admin.php:421
+#: admin/class-ultimate-social-deux-admin.php:729
+#: admin/class-ultimate-social-deux-admin.php:795
+msgid "Hide on blog page?"
+msgstr "Скрыть на странице блога?"
+
+#: admin/class-ultimate-social-deux-admin.php:422
+msgid "Hide on posts?"
+msgstr "Скрыть в записях блога?"
+
+#: admin/class-ultimate-social-deux-admin.php:423
+msgid "Hide on pages?"
+msgstr "Скрыть на страницах?"
+
+#: admin/class-ultimate-social-deux-admin.php:424
+#: admin/class-ultimate-social-deux-admin.php:730
+#: admin/class-ultimate-social-deux-admin.php:796
+msgid "Hide on archive pages?"
+msgstr "Скрыть на страницах архива?"
+
+#: admin/class-ultimate-social-deux-admin.php:425
+#: admin/class-ultimate-social-deux-admin.php:731
+#: admin/class-ultimate-social-deux-admin.php:797
+msgid "Hide on search pages?"
+msgstr "Скрыть на страницах результатов поиска?"
+
+#: admin/class-ultimate-social-deux-admin.php:426
+msgid "Hide on mobile?"
+msgstr "Скрыть на мобильных устройствах?"
+
+#: admin/class-ultimate-social-deux-admin.php:427
+msgid "Hide on desktop?"
+msgstr "скрыть на рабочем столе?"
+
+#: admin/class-ultimate-social-deux-admin.php:428
+#: admin/class-ultimate-social-deux-admin.php:475
+#: admin/class-ultimate-social-deux-admin.php:538
+#: admin/class-ultimate-social-deux-admin.php:602
+#: admin/class-ultimate-social-deux-admin.php:666
+#: admin/class-ultimate-social-deux-admin.php:732
+#: admin/class-ultimate-social-deux-admin.php:798
+#: admin/class-ultimate-social-deux-admin.php:862
+#: admin/class-ultimate-social-deux-admin.php:926
+#: admin/class-ultimate-social-deux-admin.php:990
+#: admin/class-ultimate-social-deux-admin.php:1054
+#: admin/class-ultimate-social-deux-admin.php:1118
+#: admin/class-ultimate-social-deux-admin.php:1182
+#: admin/class-ultimate-social-deux-admin.php:1252
+#: admin/class-ultimate-social-deux-admin.php:1323
+msgid "Hide count numbers?"
+msgstr "Скрыть счётчики?"
+
+#: admin/class-ultimate-social-deux-admin.php:433
+msgid "Custom URL"
+msgstr "Другой URL-адрес:"
+
+#: admin/class-ultimate-social-deux-admin.php:434
+msgid "You might want a static URL for your floating buttons across your site."
+msgstr "Статический URL-адрес, где будут размещены всплывающие кнопки."
+
+#: admin/class-ultimate-social-deux-admin.php:439
+#: admin/class-ultimate-social-deux-admin.php:491
+#: admin/class-ultimate-social-deux-admin.php:554
+#: admin/class-ultimate-social-deux-admin.php:618
+#: admin/class-ultimate-social-deux-admin.php:682
+#: admin/class-ultimate-social-deux-admin.php:748
+#: admin/class-ultimate-social-deux-admin.php:814
+#: admin/class-ultimate-social-deux-admin.php:878
+#: admin/class-ultimate-social-deux-admin.php:942
+#: admin/class-ultimate-social-deux-admin.php:1006
+#: admin/class-ultimate-social-deux-admin.php:1070
+#: admin/class-ultimate-social-deux-admin.php:1134
+#: admin/class-ultimate-social-deux-admin.php:1198
+#: admin/class-ultimate-social-deux-admin.php:1268
+#: admin/class-ultimate-social-deux-admin.php:1339
+msgid "Exclude"
+msgstr "Отключить здесь:"
+
+#: admin/class-ultimate-social-deux-admin.php:440
+msgid ""
+"Exclude Floating buttons on posts/pages with these IDs? Comma seperated:"
+msgstr ""
+"В записях/на страницах с данными ID - укажите через запятую, например: "
+
+#: admin/class-ultimate-social-deux-admin.php:445
+msgid "Floating animation speed"
+msgstr "Скорость анимации:"
+
+#: admin/class-ultimate-social-deux-admin.php:446
+msgid "in ms"
+msgstr "миллисекунд."
+
+#: admin/class-ultimate-social-deux-admin.php:456
+msgid "Top of Pages"
+msgstr "Вверху страницы"
+
+#: admin/class-ultimate-social-deux-admin.php:480
+#: admin/class-ultimate-social-deux-admin.php:543
+#: admin/class-ultimate-social-deux-admin.php:607
+#: admin/class-ultimate-social-deux-admin.php:671
+#: admin/class-ultimate-social-deux-admin.php:737
+#: admin/class-ultimate-social-deux-admin.php:803
+#: admin/class-ultimate-social-deux-admin.php:867
+#: admin/class-ultimate-social-deux-admin.php:931
+#: admin/class-ultimate-social-deux-admin.php:995
+#: admin/class-ultimate-social-deux-admin.php:1059
+#: admin/class-ultimate-social-deux-admin.php:1123
+#: admin/class-ultimate-social-deux-admin.php:1187
+#: admin/class-ultimate-social-deux-admin.php:1257
+#: admin/class-ultimate-social-deux-admin.php:1328
+#: public/class-ultimate-social-deux-visual-composer.php:124
+#: public/class-ultimate-social-deux-visual-composer.php:261
+#: public/class-ultimate-social-deux-visual-composer.php:297
+#: public/class-ultimate-social-deux-widget.php:98
+msgid "Align"
+msgstr "Выравнивание:"
+
+#: admin/class-ultimate-social-deux-admin.php:484
+#: admin/class-ultimate-social-deux-admin.php:547
+#: admin/class-ultimate-social-deux-admin.php:611
+#: admin/class-ultimate-social-deux-admin.php:675
+#: admin/class-ultimate-social-deux-admin.php:741
+#: admin/class-ultimate-social-deux-admin.php:807
+#: admin/class-ultimate-social-deux-admin.php:871
+#: admin/class-ultimate-social-deux-admin.php:935
+#: admin/class-ultimate-social-deux-admin.php:999
+#: admin/class-ultimate-social-deux-admin.php:1063
+#: admin/class-ultimate-social-deux-admin.php:1127
+#: admin/class-ultimate-social-deux-admin.php:1191
+#: admin/class-ultimate-social-deux-admin.php:1261
+#: admin/class-ultimate-social-deux-admin.php:1332
+#: public/class-ultimate-social-deux-visual-composer.php:128
+#: public/class-ultimate-social-deux-visual-composer.php:265
+#: public/class-ultimate-social-deux-visual-composer.php:301
+msgid "Left"
+msgstr "Слева"
+
+#: admin/class-ultimate-social-deux-admin.php:485
+#: admin/class-ultimate-social-deux-admin.php:548
+#: admin/class-ultimate-social-deux-admin.php:612
+#: admin/class-ultimate-social-deux-admin.php:676
+#: admin/class-ultimate-social-deux-admin.php:742
+#: admin/class-ultimate-social-deux-admin.php:808
+#: admin/class-ultimate-social-deux-admin.php:872
+#: admin/class-ultimate-social-deux-admin.php:936
+#: admin/class-ultimate-social-deux-admin.php:1000
+#: admin/class-ultimate-social-deux-admin.php:1064
+#: admin/class-ultimate-social-deux-admin.php:1128
+#: admin/class-ultimate-social-deux-admin.php:1192
+#: admin/class-ultimate-social-deux-admin.php:1262
+#: admin/class-ultimate-social-deux-admin.php:1333
+#: public/class-ultimate-social-deux-visual-composer.php:127
+#: public/class-ultimate-social-deux-visual-composer.php:264
+#: public/class-ultimate-social-deux-visual-composer.php:300
+msgid "Center"
+msgstr "По центру"
+
+#: admin/class-ultimate-social-deux-admin.php:486
+#: admin/class-ultimate-social-deux-admin.php:549
+#: admin/class-ultimate-social-deux-admin.php:613
+#: admin/class-ultimate-social-deux-admin.php:677
+#: admin/class-ultimate-social-deux-admin.php:743
+#: admin/class-ultimate-social-deux-admin.php:809
+#: admin/class-ultimate-social-deux-admin.php:873
+#: admin/class-ultimate-social-deux-admin.php:937
+#: admin/class-ultimate-social-deux-admin.php:1001
+#: admin/class-ultimate-social-deux-admin.php:1065
+#: admin/class-ultimate-social-deux-admin.php:1129
+#: admin/class-ultimate-social-deux-admin.php:1193
+#: admin/class-ultimate-social-deux-admin.php:1263
+#: admin/class-ultimate-social-deux-admin.php:1334
+#: public/class-ultimate-social-deux-visual-composer.php:129
+#: public/class-ultimate-social-deux-visual-composer.php:266
+#: public/class-ultimate-social-deux-visual-composer.php:302
+msgid "Right"
+msgstr "Справа"
+
+#: admin/class-ultimate-social-deux-admin.php:492
+msgid "Exclude Buttons on top of pages with these IDs? Comma seperated:"
+msgstr "вверху страниц со следующими ID - укажите через запятую, например:  "
+
+#: admin/class-ultimate-social-deux-admin.php:497
+#: admin/class-ultimate-social-deux-admin.php:560
+#: admin/class-ultimate-social-deux-admin.php:624
+#: admin/class-ultimate-social-deux-admin.php:688
+#: admin/class-ultimate-social-deux-admin.php:754
+#: admin/class-ultimate-social-deux-admin.php:820
+#: admin/class-ultimate-social-deux-admin.php:884
+#: admin/class-ultimate-social-deux-admin.php:948
+#: admin/class-ultimate-social-deux-admin.php:1012
+#: admin/class-ultimate-social-deux-admin.php:1076
+#: admin/class-ultimate-social-deux-admin.php:1140
+#: admin/class-ultimate-social-deux-admin.php:1204
+#: admin/class-ultimate-social-deux-admin.php:1274
+#: admin/class-ultimate-social-deux-admin.php:1345
+msgid "Share text"
+msgstr "Добавить текст:"
+
+#: admin/class-ultimate-social-deux-admin.php:498
+#: admin/class-ultimate-social-deux-admin.php:561
+#: admin/class-ultimate-social-deux-admin.php:625
+#: admin/class-ultimate-social-deux-admin.php:689
+#: admin/class-ultimate-social-deux-admin.php:755
+#: admin/class-ultimate-social-deux-admin.php:821
+#: admin/class-ultimate-social-deux-admin.php:885
+#: admin/class-ultimate-social-deux-admin.php:949
+#: admin/class-ultimate-social-deux-admin.php:1013
+#: admin/class-ultimate-social-deux-admin.php:1077
+#: admin/class-ultimate-social-deux-admin.php:1141
+#: admin/class-ultimate-social-deux-admin.php:1205
+#: admin/class-ultimate-social-deux-admin.php:1275
+#: admin/class-ultimate-social-deux-admin.php:1346
+msgid "Text to be added left of the buttons"
+msgstr "текст будет отображаться слева от кнопок"
+
+#: admin/class-ultimate-social-deux-admin.php:503
+#: admin/class-ultimate-social-deux-admin.php:566
+#: admin/class-ultimate-social-deux-admin.php:630
+#: admin/class-ultimate-social-deux-admin.php:694
+#: admin/class-ultimate-social-deux-admin.php:760
+#: admin/class-ultimate-social-deux-admin.php:826
+#: admin/class-ultimate-social-deux-admin.php:890
+#: admin/class-ultimate-social-deux-admin.php:954
+#: admin/class-ultimate-social-deux-admin.php:1018
+#: admin/class-ultimate-social-deux-admin.php:1082
+#: admin/class-ultimate-social-deux-admin.php:1146
+#: admin/class-ultimate-social-deux-admin.php:1210
+#: admin/class-ultimate-social-deux-admin.php:1280
+#: admin/class-ultimate-social-deux-admin.php:1351
+msgid "Margin above buttons"
+msgstr "Отступ над кнопками:"
+
+#: admin/class-ultimate-social-deux-admin.php:504
+#: admin/class-ultimate-social-deux-admin.php:510
+#: admin/class-ultimate-social-deux-admin.php:567
+#: admin/class-ultimate-social-deux-admin.php:573
+#: admin/class-ultimate-social-deux-admin.php:631
+#: admin/class-ultimate-social-deux-admin.php:637
+#: admin/class-ultimate-social-deux-admin.php:695
+#: admin/class-ultimate-social-deux-admin.php:701
+#: admin/class-ultimate-social-deux-admin.php:761
+#: admin/class-ultimate-social-deux-admin.php:767
+#: admin/class-ultimate-social-deux-admin.php:827
+#: admin/class-ultimate-social-deux-admin.php:833
+#: admin/class-ultimate-social-deux-admin.php:891
+#: admin/class-ultimate-social-deux-admin.php:897
+#: admin/class-ultimate-social-deux-admin.php:955
+#: admin/class-ultimate-social-deux-admin.php:961
+#: admin/class-ultimate-social-deux-admin.php:1019
+#: admin/class-ultimate-social-deux-admin.php:1025
+#: admin/class-ultimate-social-deux-admin.php:1083
+#: admin/class-ultimate-social-deux-admin.php:1089
+#: admin/class-ultimate-social-deux-admin.php:1147
+#: admin/class-ultimate-social-deux-admin.php:1153
+#: admin/class-ultimate-social-deux-admin.php:1211
+#: admin/class-ultimate-social-deux-admin.php:1217
+#: admin/class-ultimate-social-deux-admin.php:1281
+#: admin/class-ultimate-social-deux-admin.php:1287
+#: admin/class-ultimate-social-deux-admin.php:1352
+#: admin/class-ultimate-social-deux-admin.php:1358
+msgid "In pixels"
+msgstr "в пикселах"
+
+#: admin/class-ultimate-social-deux-admin.php:509
+#: admin/class-ultimate-social-deux-admin.php:572
+#: admin/class-ultimate-social-deux-admin.php:636
+#: admin/class-ultimate-social-deux-admin.php:700
+#: admin/class-ultimate-social-deux-admin.php:766
+#: admin/class-ultimate-social-deux-admin.php:832
+#: admin/class-ultimate-social-deux-admin.php:896
+#: admin/class-ultimate-social-deux-admin.php:960
+#: admin/class-ultimate-social-deux-admin.php:1024
+#: admin/class-ultimate-social-deux-admin.php:1088
+#: admin/class-ultimate-social-deux-admin.php:1152
+#: admin/class-ultimate-social-deux-admin.php:1216
+#: admin/class-ultimate-social-deux-admin.php:1286
+#: admin/class-ultimate-social-deux-admin.php:1357
+msgid "Margin below buttons"
+msgstr "Отступ под кнопками:"
+
+#: admin/class-ultimate-social-deux-admin.php:519
+msgid "Bottom of Pages"
+msgstr "Внизу страницы"
+
+#: admin/class-ultimate-social-deux-admin.php:555
+msgid "Exclude Buttons on bottom of pages with these IDs? Comma seperated:"
+msgstr "внизу страниц со следующими ID - укажите через запятую, например: "
+
+#: admin/class-ultimate-social-deux-admin.php:582
+msgid "Top of Post excerpts"
+msgstr "Над цитатами к блогу"
+
+#: admin/class-ultimate-social-deux-admin.php:583
+#: admin/class-ultimate-social-deux-admin.php:647
+msgid "Your theme may not support this."
+msgstr ""
+
+#: admin/class-ultimate-social-deux-admin.php:619
+msgid ""
+"Exclude Buttons on top of post excerpts with these IDs? Comma seperated:"
+msgstr ""
+"над цитатами к блогу со следующими ID - укажите через запятую, например: "
+
+#: admin/class-ultimate-social-deux-admin.php:646
+msgid "Bottom of Post excerpts"
+msgstr "Под цитатами к блогу"
+
+#: admin/class-ultimate-social-deux-admin.php:683
+msgid ""
+"Exclude Buttons on bottom of post excerpts with these IDs? Comma seperated:"
+msgstr ""
+"под цитатами к блогу со следующими ID - укажите через запятую, например: "
+
+#: admin/class-ultimate-social-deux-admin.php:710
+msgid "Top of Posts"
+msgstr "Над статьями"
+
+#: admin/class-ultimate-social-deux-admin.php:749
+msgid "Exclude Buttons on top of posts with these IDs? Comma seperated:"
+msgstr ""
+"над содержанием статей со следующими ID - укажите через запятую, например:"
+
+#: admin/class-ultimate-social-deux-admin.php:776
+msgid "Bottom of Posts"
+msgstr "Под статьями"
+
+#: admin/class-ultimate-social-deux-admin.php:815
+msgid "Exclude Buttons on bottom of posts with these IDs? Comma seperated:"
+msgstr ""
+"под содержанием статей со следующими ID - укажите через запятую, например:"
+
+#: admin/class-ultimate-social-deux-admin.php:842
+msgid "WooCommerce Top"
+msgstr "Вверху WooCommerce"
+
+#: admin/class-ultimate-social-deux-admin.php:843
+#: admin/class-ultimate-social-deux-admin.php:907
+#: admin/class-ultimate-social-deux-admin.php:971
+#: admin/class-ultimate-social-deux-admin.php:1035
+#: admin/class-ultimate-social-deux-admin.php:1099
+#: admin/class-ultimate-social-deux-admin.php:1163
+msgid "You will need"
+msgstr "Вам потребуется плагин"
+
+#: admin/class-ultimate-social-deux-admin.php:843
+#: admin/class-ultimate-social-deux-admin.php:907
+#: admin/class-ultimate-social-deux-admin.php:971
+#: admin/class-ultimate-social-deux-admin.php:1035
+#: admin/class-ultimate-social-deux-admin.php:1099
+#: admin/class-ultimate-social-deux-admin.php:1163
+msgid "for these options to work."
+msgstr ", чтобы эта функция заработала."
+
+#: admin/class-ultimate-social-deux-admin.php:879
+msgid ""
+"Exclude Buttons on top of WooCommerce products with these IDs? Comma "
+"seperated:"
+msgstr ""
+"вверху товаров WooCommerce со следующими ID - укажите через запятую, "
+"например:"
+
+#: admin/class-ultimate-social-deux-admin.php:906
+msgid "WooCommerce Bottom"
+msgstr "Внизу WooCommerce"
+
+#: admin/class-ultimate-social-deux-admin.php:943
+msgid ""
+"Exclude Buttons on bottom of WooCommerce products with these IDs? Comma "
+"seperated:"
+msgstr ""
+"внизу товаров WooCommerce со следующими ID - укажите через запятую, например:"
+
+#: admin/class-ultimate-social-deux-admin.php:970
+msgid "Jigoshop Top"
+msgstr "Вверху Jigoshop"
+
+#: admin/class-ultimate-social-deux-admin.php:1007
+msgid ""
+"Exclude Buttons on top of Jigoshop products with these IDs? Comma seperated:"
+msgstr ""
+"вверху товаров Jigoshop со следующими ID - укажите через запятую, например:"
+
+#: admin/class-ultimate-social-deux-admin.php:1034
+msgid "Jigoshop Bottom"
+msgstr "Внизу Jigoshop"
+
+#: admin/class-ultimate-social-deux-admin.php:1071
+msgid ""
+"Exclude Buttons on bottom of Jigoshop products with these IDs? Comma "
+"seperated:"
+msgstr ""
+"внизу товаров Jigoshop со следующими ID - укажите через запятую, например:"
+
+#: admin/class-ultimate-social-deux-admin.php:1098
+msgid "Easy Digital Downloads Top"
+msgstr "Вверху Easy Digital Downloads"
+
+#: admin/class-ultimate-social-deux-admin.php:1135
+msgid ""
+"Exclude Buttons on top of Easy Digital Downloads products with these IDs? "
+"Comma seperated:"
+msgstr ""
+"вверху товаров Easy Digital Downloads со следующими ID - укажите через "
+"запятую, например:"
+
+#: admin/class-ultimate-social-deux-admin.php:1162
+msgid "Easy Digital Downloads Bottom"
+msgstr "Внизу Easy Digital Downloads"
+
+#: admin/class-ultimate-social-deux-admin.php:1199
+msgid ""
+"Exclude Buttons on bottom of Easy Digital Downloads products with these IDs? "
+"Comma seperated:"
+msgstr ""
+"внизу товаров Easy Digital Downloads со следующими ID - укажите через "
+"запятую, например:"
+
+#: admin/class-ultimate-social-deux-admin.php:1226
+msgid "Top of Custom Post Types"
+msgstr "Вверху нестандартных блоков данных"
+
+#: admin/class-ultimate-social-deux-admin.php:1227
+#: admin/class-ultimate-social-deux-admin.php:1297
+msgid ""
+"You might have a plugin or theme which is creating custom post types. You "
+"can easily integrate these custom post types with Ultimate Social Deux."
+msgstr ""
+"У Вас может быть установлен плагин или тема оформления, которые используют "
+"нестандартные типы даных. Вы можете с легкостью интегрировать их с кнопками "
+"Ultimate Social Deux."
+
+#: admin/class-ultimate-social-deux-admin.php:1232
+#: admin/class-ultimate-social-deux-admin.php:1303
+msgid "CPT Slugs"
+msgstr "Метки НБД"
+
+#: admin/class-ultimate-social-deux-admin.php:1233
+#: admin/class-ultimate-social-deux-admin.php:1304
+msgid ""
+"Add the slugs of the CPT's that you want the buttons to display on. Comma "
+"seperated: \"books, movies, links\""
+msgstr ""
+"введите метки нестандартных блоков данных, в которых хотите использовать "
+"кнопки. Укажите их через запятую, например: \"books, movies, links\""
+
+#: admin/class-ultimate-social-deux-admin.php:1269
+msgid ""
+"Exclude Buttons on top of custom post types with these IDs? Comma seperated:"
+msgstr ""
+"вверху нестандартных блоков данных со следующими ID - укажите через запятую, "
+"например: "
+
+#: admin/class-ultimate-social-deux-admin.php:1296
+msgid "Bottom of Custom Post Types"
+msgstr "Внизу нестандартных блоков данных"
+
+#: admin/class-ultimate-social-deux-admin.php:1340
+msgid ""
+"Exclude Buttons on bottom of custom post types with these IDs? Comma "
+"seperated:"
+msgstr ""
+"внизу нестандартных блоков данных со следующими ID - укажите через запятую, "
+"например:"
+
+#: admin/class-ultimate-social-deux-admin.php:1370
+#: admin/class-ultimate-social-deux-admin.php:1384
+#: admin/class-ultimate-social-deux-admin.php:1398
+#: admin/class-ultimate-social-deux-admin.php:1412
+#: admin/class-ultimate-social-deux-admin.php:1426
+#: admin/class-ultimate-social-deux-admin.php:1440
+#: admin/class-ultimate-social-deux-admin.php:1454
+#: admin/class-ultimate-social-deux-admin.php:1468
+#: admin/class-ultimate-social-deux-admin.php:1482
+#: admin/class-ultimate-social-deux-admin.php:1496
+msgid "Popup Height"
+msgstr "(высота)"
+
+#: admin/class-ultimate-social-deux-admin.php:1371
+#: admin/class-ultimate-social-deux-admin.php:1378
+#: admin/class-ultimate-social-deux-admin.php:1385
+#: admin/class-ultimate-social-deux-admin.php:1392
+#: admin/class-ultimate-social-deux-admin.php:1399
+#: admin/class-ultimate-social-deux-admin.php:1406
+#: admin/class-ultimate-social-deux-admin.php:1413
+#: admin/class-ultimate-social-deux-admin.php:1420
+#: admin/class-ultimate-social-deux-admin.php:1427
+#: admin/class-ultimate-social-deux-admin.php:1434
+#: admin/class-ultimate-social-deux-admin.php:1441
+#: admin/class-ultimate-social-deux-admin.php:1448
+#: admin/class-ultimate-social-deux-admin.php:1455
+#: admin/class-ultimate-social-deux-admin.php:1462
+#: admin/class-ultimate-social-deux-admin.php:1469
+#: admin/class-ultimate-social-deux-admin.php:1476
+#: admin/class-ultimate-social-deux-admin.php:1483
+#: admin/class-ultimate-social-deux-admin.php:1490
+#: admin/class-ultimate-social-deux-admin.php:1497
+#: admin/class-ultimate-social-deux-admin.php:1504
+msgid "in pixels"
+msgstr "в пикселах"
+
+#: admin/class-ultimate-social-deux-admin.php:1377
+#: admin/class-ultimate-social-deux-admin.php:1391
+#: admin/class-ultimate-social-deux-admin.php:1405
+#: admin/class-ultimate-social-deux-admin.php:1419
+#: admin/class-ultimate-social-deux-admin.php:1433
+#: admin/class-ultimate-social-deux-admin.php:1447
+#: admin/class-ultimate-social-deux-admin.php:1461
+#: admin/class-ultimate-social-deux-admin.php:1475
+#: admin/class-ultimate-social-deux-admin.php:1489
+#: admin/class-ultimate-social-deux-admin.php:1503
+msgid "Popup Width"
+msgstr "(ширина)"
+
+#: admin/class-ultimate-social-deux-admin.php:1515
+msgid "Enter your CodeCanyon Purchase Code"
+msgstr "Введите свой код покупки на CodeCanyon"
+
+#: admin/class-ultimate-social-deux-admin.php:1516
+#, fuzzy
+msgid "This enables automatic updates."
+msgstr "Это активирует функцию автоматических обновлений плагина"
+
+#: admin/class-ultimate-social-deux-admin.php:1516
+msgid "Check for updates."
+msgstr ""
+
+#: admin/class-ultimate-social-deux-admin.php:1521
+msgid "To access your Purchase Code for an item:"
+msgstr "Чтобы получить код покупки выполните следующие действия:"
+
+#: admin/class-ultimate-social-deux-admin.php:1522
+msgid "Log into your CodeCanyon account."
+msgstr "Войти в учётную запись CodeCanyon."
+
+#: admin/class-ultimate-social-deux-admin.php:1522
+msgid "From your account dropdown links, select \"Downloads\"."
+msgstr ""
+"Кликните по своему логину справа вверху и из ниспадающего списка выберите "
+"\"Загрузки\" (\"Downloads\")."
+
+#: admin/class-ultimate-social-deux-admin.php:1522
+msgid "Click the \"Download\" button that corresponds with your purchase."
+msgstr ""
+"Нажмите кнопку \"Загрузить\" (\"Download\") напротив соответствующего "
+"плагина."
+
+#: admin/class-ultimate-social-deux-admin.php:1522
+msgid ""
+"Select the \"License certificate & purchase code\" download link. Your "
+"Purchase Code will be displayed within the License Certificate."
+msgstr ""
+"Выберите в списке \"Лецензионный сертификат и код покупки\" (\"License "
+"certificate & purchase code\"). Ваш код будет указан в загруженном "
+"сертификате."
+
+#: admin/includes/wp-updates-plugin.php:86
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"При обработке запроса API возникла неизвестная ошибка HTTP. </p> <p><a href="
+"\"?\" onclick=\"document.location.reload(); return false;\">Попробуйте еще "
+"раз</a>"
+
+#: admin/includes/wp-updates-plugin.php:90
+msgid "An unknown error occurred"
+msgstr "Возникла неизвестная ошибка"
+
+#: public/class-ultimate-social-deux-public.php:877
+msgid "Your Name"
+msgstr "Введите своё имя"
+
+#: public/class-ultimate-social-deux-public.php:878
+msgid "Your Email"
+msgstr "Введите свой e-mail"
+
+#: public/class-ultimate-social-deux-public.php:879
+msgid "Recipient Email"
+msgstr "Введите e-mail адресата"
+
+#: public/class-ultimate-social-deux-public.php:880
+msgid "Enter a Message"
+msgstr "Введите текст сообщения"
+
+#: public/class-ultimate-social-deux-public.php:881
+msgid "Captcha"
+msgstr "Контрольный вопрос"
+
+#: public/class-ultimate-social-deux-public.php:909
+msgid "Submit"
+msgstr "Отправить"
+
+#: public/class-ultimate-social-deux-public.php:956
+msgid "Captcha cannot be empty!"
+msgstr "Поле ответа на контрольный вопрос не может быть пустым!"
+
+#: public/class-ultimate-social-deux-public.php:958
+msgid "Captcha does not match."
+msgstr "Ответ на контрольный вопрос неверен"
+
+#: public/class-ultimate-social-deux-public.php:962
+msgid "Recipient email address is not valid."
+msgstr "Введёный Вами email адресата не корректен"
+
+#: public/class-ultimate-social-deux-public.php:964
+msgid "Your email address is not valid."
+msgstr "Ваш email адрес введён некорректно"
+
+#: public/class-ultimate-social-deux-public.php:966
+msgid "Your name cannot be empty."
+msgstr "Поле с Вашим именем не может быть пустым"
+
+#: public/class-ultimate-social-deux-public.php:968
+msgid "Message cannot be empty."
+msgstr "Текст сообщения должен содержать какие-то данные"
+
+#: public/class-ultimate-social-deux-public.php:987
+msgid "Unknown wp_mail() error."
+msgstr "Неизвестная ошибка wp_mail()"
+
+#: public/class-ultimate-social-deux-visual-composer.php:6
+#, fuzzy
+msgid "Ultimate Social"
+msgstr "Ultimate Social Deux"
+
+#: public/class-ultimate-social-deux-visual-composer.php:9
+#: public/class-ultimate-social-deux-visual-composer.php:146
+#: public/class-ultimate-social-deux-visual-composer.php:283
+msgid "Social"
+msgstr ""
+
+#: public/class-ultimate-social-deux-visual-composer.php:13
+#: public/class-ultimate-social-deux-visual-composer.php:150
+#: public/class-ultimate-social-deux-visual-composer.php:287
+#, fuzzy
+msgid "URL to share"
+msgstr "Поделиться особый URL-адресом: "
+
+#: public/class-ultimate-social-deux-visual-composer.php:18
+#: public/class-ultimate-social-deux-visual-composer.php:155
+#, fuzzy
+msgid "Share Text:"
+msgstr "Текст для отправки: "
+
+#: public/class-ultimate-social-deux-visual-composer.php:39
+#: public/class-ultimate-social-deux-visual-composer.php:176
+#, fuzzy
+msgid "Google"
+msgstr "Google Plus"
+
+#: public/class-ultimate-social-deux-visual-composer.php:63
+#: public/class-ultimate-social-deux-visual-composer.php:200
+#, fuzzy
+msgid "Stumble"
+msgstr "StumbleUpon"
+
+#: public/class-ultimate-social-deux-visual-composer.php:111
+#: public/class-ultimate-social-deux-visual-composer.php:248
+#, fuzzy
+msgid "Counts?"
+msgstr "Скрыть счётчики?"
+
+#: public/class-ultimate-social-deux-visual-composer.php:119
+#: public/class-ultimate-social-deux-visual-composer.php:256
+#: public/class-ultimate-social-deux-visual-composer.php:292
+#, fuzzy
+msgid "Custom Class"
+msgstr "Дополнительный код CSS"
+
+#: public/class-ultimate-social-deux-visual-composer.php:134
+#: public/class-ultimate-social-deux-visual-composer.php:271
+msgid "Image URL"
+msgstr ""
+
+#: public/class-ultimate-social-deux-visual-composer.php:135
+#: public/class-ultimate-social-deux-visual-composer.php:272
+msgid "Used for the Pinterest button"
+msgstr ""
+
+#: public/class-ultimate-social-deux-visual-composer.php:143
+#, fuzzy
+msgid "Ultimate Social - Total Count"
+msgstr "Ultimate Social Deux"
+
+#: public/class-ultimate-social-deux-visual-composer.php:280
+#, fuzzy
+msgid "Ultimate Social - Total Count Only"
+msgstr "Ultimate Social Deux"
+
+#: public/class-ultimate-social-deux-widget.php:15
+msgid "Ultimate Social Deux"
+msgstr "Ultimate Social Deux"
+
+#: public/class-ultimate-social-deux-widget.php:39
+msgid "Share text:"
+msgstr "Текст для отправки: "
+
+#: public/class-ultimate-social-deux-widget.php:86
+msgid "Url to image:"
+msgstr "URL-адрес изображения: "
+
+#: public/class-ultimate-social-deux-widget.php:90
+msgid "Custom URL to share:"
+msgstr "Поделиться особый URL-адресом: "
+
+#: public/class-ultimate-social-deux-widget.php:95
+msgid "Hide counts?"
+msgstr "Скрыть счётчики?"
+
+#~ msgid "Image that is passed if a post have no images"
+#~ msgstr ""
+#~ "Если статья не содержит картинки, то будет использоваться данное "
+#~ "изображение"
+
+#~ msgid "Facebook Color"
+#~ msgstr "Цвет Facebook"
+
+#~ msgid "Facebook button color"
+#~ msgstr "Цвет кнопки Facebook"
+
+#~ msgid "Twitter Color"
+#~ msgstr "Цвет Twitter"
+
+#~ msgid "Twitter button color"
+#~ msgstr "Цвет кнопки Twitter"
+
+#~ msgid "Google Plus Color"
+#~ msgstr "Цвет Google Plus"
+
+#~ msgid "Google Plus button color"
+#~ msgstr "Цвет кнопки Google Plus"
+
+#~ msgid "LinkedIn Color"
+#~ msgstr "Цвет LinkedIn"
+
+#~ msgid "LinkedIn button color"
+#~ msgstr "Цвет кнопки LinkedIn"
+
+#~ msgid ""
+#~ "Subject of email.<br>Available tags is: <br>{post_title} -> Outputs title "
+#~ "of the post or page<br>{post_url} -> Outputs url of the post or "
+#~ "page<br>{post_author} -> Outputs the author of the post or "
+#~ "page<br>{site_title} -> Outputs the title of the Wordpress "
+#~ "Install<br>{site_url} -> Outputs the url of the Wordpress Install"
+#~ msgstr ""
+#~ "Тема сообщения.<br>Ключевые слова: <br>{post_title} -> Название статьи "
+#~ "или страницы: <br>{post_url} -> Url-адрес статьи или страницы: "
+#~ "<br>{post_author} -> Автор сатьи или страницы: <br>{site_title} -> "
+#~ "Outputs the title of the Wordpress Install<br>{site_url} -> Outputs the "
+#~ "url of the Wordpress Install"
+
+#~ msgid "A visitor of {site_title} shared {post_title} with you."
+#~ msgstr ""
+#~ "Посетитель страницы {site_title} поделился с Вами ссылкой {post_title}."
+
+#~ msgid ""
+#~ "Body of email. Available tags is: <br>{post_title} -> Outputs title of "
+#~ "the post or page<br>{post_url} -> Outputs url of the post or "
+#~ "page<br>{post_author} -> Outputs the author of the post or "
+#~ "page<br>{site_title} -> Outputs the title of the Wordpress "
+#~ "Install<br>{site_url} -> Outputs the url of the Wordpress Install"
+#~ msgstr ""
+#~ "Текс Email-сообщения. Ключевые слова: <br>{post_title} -> Название статьи "
+#~ "или страницы:<br>{post_url} -> Url-адрес статьи или страницы:"
+#~ "<br>{post_author} -> Автор статьи или страницы:<br>{site_title} -> "
+#~ "Outputs the title of the Wordpress Install<br>{site_url} -> Outputs the "
+#~ "url of the Wordpress Install"
+
+#~ msgid "9"
+#~ msgstr "9"
